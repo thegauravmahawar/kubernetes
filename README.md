@@ -17,3 +17,9 @@ brew install minikube
 ```shell
 brew install kubectl
 ```
+
+**Minikube Dashboard**
+
+```shell
+minikube dashboard
+```
